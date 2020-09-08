@@ -27,8 +27,8 @@ function Chat({ messages }) {
       <div className='chat__header'>
         <Avatar />
         <div className='chat__headerInfo'>
-          <h3>Room name</h3>
-          <p>Last seen at</p>
+          <h3>Good bye 2020</h3>
+          <p>Last seen at {messages.timestamp}</p>
         </div>
         <div className='chat__headerRight'>
           <IconButton>

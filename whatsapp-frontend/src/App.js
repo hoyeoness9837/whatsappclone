@@ -34,7 +34,6 @@ function App() {
 
   return (
     <div className='app'>
-      <h1>What's App clone</h1>
       <div className='app__body'>
         <Sidebar />
         <Chat key={messages.id} messages={messages} />
