@@ -21,7 +21,7 @@
 
 ## DEMO
 
-![DEMO](/public/assets/demo.gif)
+![DEMO](/whatsapp-frontend/public/assets/demo.gif)
 
 ## Github Repo
 
